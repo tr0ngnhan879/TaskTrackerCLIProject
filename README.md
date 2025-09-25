@@ -2,7 +2,12 @@
 
 A simple command-line task tracker built with C# 12 and .NET 8. This tool allows you to manage your tasks directly from the terminal, supporting basic CRUD operations and status management.
 
-**Project URL:** [https://github.com/tr0ngnhan879/TaskTrackerCLIProject](https://github.com/tr0ngnhan879/TaskTrackerCLIProject)
+## Project Page
+
+[https://github.com/tr0ngnhan879/TaskTrackerCLIProject](https://github.com/tr0ngnhan879/TaskTrackerCLIProject)
+
+**Repository Clone URL:**  
+`https://github.com/tr0ngnhan879/TaskTrackerCLIProject.git`
 
 ## Features
 
@@ -30,6 +35,7 @@ A simple command-line task tracker built with C# 12 and .NET 8. This tool allows
    ```
 
 3. **Run the CLI:**
+
    ```bash
    dotnet run
    ```
@@ -45,7 +51,7 @@ A simple command-line task tracker built with C# 12 and .NET 8. This tool allows
 - `update <id> <new description>`  
   Updates the description of the task with the given ID.
 
-- `delete <id>`  
+- `delete <id>` 
   Deletes the task with the specified ID.
 
 - `mark-in-progress <id>`  
