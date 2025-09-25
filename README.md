@@ -2,6 +2,8 @@
 
 A simple command-line task tracker built with C# 12 and .NET 8. This tool allows you to manage your tasks directly from the terminal, supporting basic CRUD operations and status management.
 
+**Project URL:** [https://github.com/tr0ngnhan879/TaskTrackerCLIProject](https://github.com/tr0ngnhan879/TaskTrackerCLIProject)
+
 ## Features
 
 - Add new tasks with descriptions
