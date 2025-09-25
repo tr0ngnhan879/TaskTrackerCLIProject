@@ -6,8 +6,8 @@ A simple command-line task tracker built with C# 12 and .NET 8. This tool allows
 
 [https://github.com/tr0ngnhan879/TaskTrackerCLIProject](https://github.com/tr0ngnhan879/TaskTrackerCLIProject)
 
-**Repository Clone URL:**  
-`https://github.com/tr0ngnhan879/TaskTrackerCLIProject.git`
+**Project Task URL:**  
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
