@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|c:\\users\\dell\\desktop\\roadmap\\tasktrackercliproject\\tasktrackercliproject\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|solutionrelative:tasktrackercliproject\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|c:\\users\\dell\\desktop\\roadmap\\tasktrackercliproject\\tasktrackercliproject\\services\\taskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|solutionrelative:tasktrackercliproject\\services\\taskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|c:\\users\\dell\\desktop\\roadmap\\tasktrackercliproject\\tasktrackercliproject\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|solutionrelative:tasktrackercliproject\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|c:\\users\\dell\\desktop\\roadmap\\tasktrackercliproject\\tasktrackercliproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20173475-B474-4B38-AE44-4C36715759AE}|TaskTrackerCLIProject\\TaskTrackerCLIProject.csproj|solutionrelative:tasktrackercliproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Services\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLIProject\\Services\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Services\\TaskManager.cs*",
+              "RelativeToolTip": "TaskTrackerCLIProject\\Services\\TaskManager.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwCgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:47:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskStorage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Services\\TaskStorage.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLIProject\\Services\\TaskStorage.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Services\\TaskStorage.cs",
+              "RelativeToolTip": "TaskTrackerCLIProject\\Services\\TaskStorage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:31:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLIProject\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TaskTrackerCLIProject\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:28:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTrackerCLIProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\RoadMap\\TaskTrackerCLIProject\\TaskTrackerCLIProject\\Program.cs",
+              "RelativeToolTip": "TaskTrackerCLIProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:07:23.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

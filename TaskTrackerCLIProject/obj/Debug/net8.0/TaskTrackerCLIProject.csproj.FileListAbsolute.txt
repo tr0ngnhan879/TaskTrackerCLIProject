@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.AssemblyInfo.cs
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.sourcelink.json
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\bin\Debug\net8.0\TaskTrackerCLIProject.exe
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\bin\Debug\net8.0\TaskTrackerCLIProject.deps.json
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\bin\Debug\net8.0\TaskTrackerCLIProject.runtimeconfig.json
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\bin\Debug\net8.0\TaskTrackerCLIProject.dll
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\bin\Debug\net8.0\TaskTrackerCLIProject.pdb
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.dll
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\refint\TaskTrackerCLIProject.dll
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.pdb
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\TaskTrackerCLIProject.genruntimeconfig.cache
+C:\Users\DELL\Desktop\RoadMap\TaskTrackerCLIProject\TaskTrackerCLIProject\obj\Debug\net8.0\ref\TaskTrackerCLIProject.dll
